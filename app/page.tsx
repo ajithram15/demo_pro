@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our documnet the proccess the maintain
+            Read our documnet the proccess the maintain proccess
           </a>
         </div>
       </main>
